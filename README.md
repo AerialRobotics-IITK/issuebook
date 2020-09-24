@@ -9,13 +9,16 @@ Before opening an issue, check that you have followed the instructions and insta
 
 For ease of access.
 
-## ROS
-[#1](../../issues/1) - Could not find a package configuration file provided by "geographic_msgs"
-[#2](../../issues/2) - Failed to find glog - Could not find glog include directory
-[#5](../../issues/5) - Fatal error: lapacke.h: No such file or directory
+### ROS
+- [x] [#1](../../issues/1) - Could not find a package configuration file provided by "geographic_msgs"
 
-## Gazebo
-[#3](../../issues/3) - Gstreamer error with sitl_gazebo
-[#4](../../issues/4) - Triangle input semantic: 'TEXCOORD' is currently not supported
+- [x] [#2](../../issues/2) - Failed to find glog - Could not find glog include directory
+
+- [x] [#5](../../issues/5) - Fatal error: lapacke.h: No such file or directory
+
+### Gazebo
+- [x] [#3](../../issues/3) - Gstreamer error with sitl_gazebo
+
+- [x] [#4](../../issues/4) - Triangle input semantic: 'TEXCOORD' is currently not supported
 
 ## Miscellaneous
