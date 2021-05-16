@@ -24,6 +24,7 @@ For ease of access.
 - [x] [#4](../../issues/4) - Triangle input semantic: 'TEXCOORD' is currently not supported
 - [x] [#7](https://github.com/AerialRobotics-IITK/issuebook/issues/7) - Could not wake up Gazebo
 - [x] [#8](https://github.com/AerialRobotics-IITK/issuebook/issues/8) - Not being able to update the gazebo to it's newer version
+- [x] [#10](https://github.com/AerialRobotics-IITK/InductionY20/issues/29) - Error in REST request while running gazebo 
 
 ### Ubuntu 
 - [x] [#9](https://github.com/AerialRobotics-IITK/InductionY20/issues/28) - Post Ubuntu installation sound problem-dummy output
