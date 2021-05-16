@@ -16,9 +16,16 @@ For ease of access.
 
 - [x] [#5](../../issues/5) - Fatal error: lapacke.h: No such file or directory
 
+- [x] [#6](https://github.com/AerialRobotics-IITK/issuebook/issues/6) - Fatal error: iarc_gripper_plugin/GripperCmd.h: No such file or directory  
+
 ### Gazebo
 - [x] [#3](../../issues/3) - Gstreamer error with sitl_gazebo
 
 - [x] [#4](../../issues/4) - Triangle input semantic: 'TEXCOORD' is currently not supported
+- [x] [#7](https://github.com/AerialRobotics-IITK/issuebook/issues/7) - Could not wake up Gazebo
+- [x] [#8](https://github.com/AerialRobotics-IITK/issuebook/issues/8) - Not being able to update the gazebo to it's newer version
+
+### Ubuntu 
+- [x] [#9](https://github.com/AerialRobotics-IITK/InductionY20/issues/28) - Post Ubuntu installation sound problem-dummy output
 
 ## Miscellaneous
