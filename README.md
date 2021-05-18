@@ -27,6 +27,6 @@ For ease of access.
 - [x] [#10](https://github.com/AerialRobotics-IITK/InductionY20/issues/29) - Error in REST request while running gazebo 
 
 ### Ubuntu 
-- [x] [#9](https://github.com/AerialRobotics-IITK/InductionY20/issues/28) - Post Ubuntu installation sound problem-dummy output
+- [ ] [#9](https://github.com/AerialRobotics-IITK/InductionY20/issues/28) - Post Ubuntu installation sound problem-dummy output
 
 ## Miscellaneous
