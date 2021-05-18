@@ -29,4 +29,7 @@ For ease of access.
 ### Ubuntu 
 - [x] [#9](https://github.com/AerialRobotics-IITK/InductionY20/issues/28) - Post Ubuntu installation sound problem-dummy output
 
+### Rviz-tf
+- [x] [#11](https://github.com/AerialRobotics-IITK/issuebook/issues/9) -  No tf data, Actual error: Fixed Frame [world] does not exist
+
 ## Miscellaneous
