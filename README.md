@@ -17,8 +17,8 @@ For ease of access.
 - [x] [#5](../../issues/5) - Fatal error: lapacke.h: No such file or directory
 
 - [x] [#6](https://github.com/AerialRobotics-IITK/issuebook/issues/6) - Fatal error: iarc_gripper_plugin/GripperCmd.h: No such file or directory  
-- [x] [#10](https://github.com/AerialRobotics-IITK/issuebook/issues/10) - Build error: voxblox_skeleton/src/io/skeleton_io.cpp
-- [x] [#11](https://github.com/AerialRobotics-IITK/issuebook/issues/11) - undefined reference to YAML::detail::node_data::push_back(YAML::detail::node&, boost::shared_ptr<YAML::detail::memory_holder>  
+- [x] [#12](https://github.com/AerialRobotics-IITK/issuebook/issues/10) - Build error: voxblox_skeleton/src/io/skeleton_io.cpp
+- [x] [#13](https://github.com/AerialRobotics-IITK/issuebook/issues/11) - undefined reference to YAML::detail::node_data::push_back(YAML::detail::node&, boost::shared_ptr<YAML::detail::memory_holder>  
 
 ### Gazebo
 - [x] [#3](../../issues/3) - Gstreamer error with sitl_gazebo
