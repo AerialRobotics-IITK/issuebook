@@ -35,3 +35,4 @@ For ease of access.
 - [x] [#11](https://github.com/AerialRobotics-IITK/issuebook/issues/9) -  No tf data, Actual error: Fixed Frame [world] does not exist
 
 ## Miscellaneous
+- [x] [#12](https://github.com/AerialRobotics-IITK/issuebook/issues/12) - Turtlebot3 navigation does not work properly.
