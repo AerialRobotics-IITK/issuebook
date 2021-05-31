@@ -30,9 +30,10 @@ For ease of access.
 
 ### Ubuntu 
 - [ ] [#9](https://github.com/AerialRobotics-IITK/InductionY20/issues/28) - Post Ubuntu installation sound problem-dummy output
+- [x] [#15](https://github.com/AerialRobotics-IITK/InductionY20/issues/80#issuecomment-851266523) - Broken packages: dpkg error processing package 
 
 ### Rviz-tf
 - [x] [#11](https://github.com/AerialRobotics-IITK/issuebook/issues/9) -  No tf data, Actual error: Fixed Frame [world] does not exist
 
 ## Miscellaneous
-- [x] [#12](https://github.com/AerialRobotics-IITK/issuebook/issues/12) - Turtlebot3 navigation does not work properly.
+- [x] [#14](https://github.com/AerialRobotics-IITK/issuebook/issues/12) - Turtlebot3 navigation does not work properly.
