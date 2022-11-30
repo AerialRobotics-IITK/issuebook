@@ -1,8 +1,8 @@
-# https://github.com/stevemao/github-issue-templates
+# Credits: https://github.com/stevemao/github-issue-templates
 name: "Issue Report"
-description: Create a new ticket for a bug.
+description: Good that you finally are thinking about our future
 title: "[BUG] - <title>"
-labels: ["bug"]
+labels: ["aerial-issue"]
 body:
   - type: dropdown
     id: issue_type
@@ -48,7 +48,8 @@ body:
       description: If applicable, add screenshots to help explain your problem.
       value: |
         ![DESCRIPTION](LINK.png)
-      render: bash
+        Insert your screenshot link in place of `LINK.png` above.
+        Easiest way is to upload the screenshot on discord server at #troubleshooting, and click on the image, click on Open Original, and use that link of image here. Remove this text here after.
     validations:
       required: false
   - type: textarea
